@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c2fa11e-7cca-4a5f-9a6d-d8823ae2959f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UHkL7lDxIsc03YOxLbUv4X9aTJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="question2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c2fa11e-7cca-4a5f-9a6d-d8823ae2959f" name="Default Changelist" comment="" />
+      <created>1575020850017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575020850017</updated>
+      <workItem from="1575020852553" duration="88000" />
+      <workItem from="1575277086632" duration="143000" />
+      <workItem from="1575277312809" duration="602000" />
+      <workItem from="1575396268940" duration="4000" />
+      <workItem from="1575495138585" duration="47000" />
+      <workItem from="1575537959182" duration="50000" />
+      <workItem from="1575638780422" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="394" width="800" height="677" key="#Deployment" timestamp="1575638813823">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="908" y="394" width="800" height="677" key="#Deployment/67.27.2493.1413@67.27.2493.1413" timestamp="1575638813823" />
+    <state x="771" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575638959461">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="771" y="390" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.2493.1413@67.27.2493.1413" timestamp="1575638959461" />
+    <state x="796" y="310" width="1024" height="845" key="SettingsEditor" timestamp="1575639120658">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="796" y="310" width="1024" height="845" key="SettingsEditor/67.27.2493.1413@67.27.2493.1413" timestamp="1575639120658" />
+    <state x="879" y="434" width="869" height="596" key="find.popup" timestamp="1575277144147">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="879" y="434" width="869" height="596" key="find.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1575277144147" />
+    <state x="622" y="334" width="1372" height="796" key="new project wizard" timestamp="1575639174073">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="2490" y="313" key="new project wizard/1920.0.2560.1440/0.27.1920.1053@1920.0.2560.1440" timestamp="1575495182579" />
+    <state x="622" y="334" width="1372" height="796" key="new project wizard/67.27.2493.1413@67.27.2493.1413" timestamp="1575639174073" />
+    <state x="906" y="611" width="672" height="678" key="search.everywhere.popup" timestamp="1575020887217">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="906" y="611" width="672" height="678" key="search.everywhere.popup/67.27.2493.1413@67.27.2493.1413" timestamp="1575020887217" />
+  </component>
+</project>

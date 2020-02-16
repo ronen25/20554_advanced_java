@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a720e241-29ee-439c-96b9-827bdfa1f822" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VWHKvbgWwoj4QzEXpybihHGxli" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="question2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a720e241-29ee-439c-96b9-827bdfa1f822" name="Default Changelist" comment="" />
+      <created>1577361870273</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577361870273</updated>
+      <workItem from="1577361873851" duration="10644000" />
+      <workItem from="1577613001058" duration="5593000" />
+      <workItem from="1578042297375" duration="17000" />
+      <workItem from="1578042337523" duration="9123000" />
+      <workItem from="1578328291187" duration="1920000" />
+      <workItem from="1578387596072" duration="639000" />
+      <workItem from="1578396112197" duration="1389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1093" y="399" key="#com.intellij.ide.util.MemberChooser" timestamp="1578047923488">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="1093" y="399" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1390@0.0.2560.1390" timestamp="1578047923488" />
+    <state x="963" y="423" width="624" height="543" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578042301722">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="963" y="423" width="624" height="543" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1390@0.0.2560.1390" timestamp="1578042301722" />
+    <state x="1018" y="444" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577614199842">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="1018" y="444" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1390@0.0.2560.1390" timestamp="1577614199842" />
+    <state width="2514" height="389" key="GridCell.Tab.0.bottom" timestamp="1578403902358">
+      <screen x="0" y="0" width="4480" height="1390" />
+    </state>
+    <state width="2514" height="389" key="GridCell.Tab.0.bottom/0.0.2560.1390@0.0.2560.1390" timestamp="1578391064389" />
+    <state width="2514" height="389" key="GridCell.Tab.0.bottom/0.0.4480.1390@0.0.4480.1390" timestamp="1578403902358" />
+    <state width="2514" height="389" key="GridCell.Tab.0.center" timestamp="1578403902358">
+      <screen x="0" y="0" width="4480" height="1390" />
+    </state>
+    <state width="2514" height="389" key="GridCell.Tab.0.center/0.0.2560.1390@0.0.2560.1390" timestamp="1578391064388" />
+    <state width="2514" height="389" key="GridCell.Tab.0.center/0.0.4480.1390@0.0.4480.1390" timestamp="1578403902358" />
+    <state width="2514" height="389" key="GridCell.Tab.0.left" timestamp="1578403902357">
+      <screen x="0" y="0" width="4480" height="1390" />
+    </state>
+    <state width="2514" height="389" key="GridCell.Tab.0.left/0.0.2560.1390@0.0.2560.1390" timestamp="1578391064388" />
+    <state width="2514" height="389" key="GridCell.Tab.0.left/0.0.4480.1390@0.0.4480.1390" timestamp="1578403902357" />
+    <state width="2514" height="389" key="GridCell.Tab.0.right" timestamp="1578403902358">
+      <screen x="0" y="0" width="4480" height="1390" />
+    </state>
+    <state width="2514" height="389" key="GridCell.Tab.0.right/0.0.2560.1390@0.0.2560.1390" timestamp="1578391064389" />
+    <state width="2514" height="389" key="GridCell.Tab.0.right/0.0.4480.1390@0.0.4480.1390" timestamp="1578403902358" />
+    <state x="943" y="316" width="672" height="678" key="search.everywhere.popup" timestamp="1578048477071">
+      <screen x="0" y="0" width="2560" height="1390" />
+    </state>
+    <state x="943" y="316" width="672" height="678" key="search.everywhere.popup/0.0.2560.1390@0.0.2560.1390" timestamp="1578048477071" />
+  </component>
+</project>
